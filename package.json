@@ -1,0 +1,22 @@
+{
+  "name": "jenkins_test",
+  "version": "1.0.0",
+  "description": "This repository is a test to build a Jenkins pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushagra2jindal/jenkins_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushagra2jindal/jenkins_test/issues"
+  },
+  "homepage": "https://github.com/kushagra2jindal/jenkins_test#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
